@@ -1,4 +1,3 @@
-
 ---
 title: Mi Página Principal
 layout: default
