@@ -1,4 +1,5 @@
 ---
+<link rel="stylesheet" href="assets/css/custom.css">
 title: Mi Página Principal
 layout: default
 nav_order: 1
