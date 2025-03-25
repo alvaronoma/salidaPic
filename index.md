@@ -49,4 +49,4 @@ print("Hola, mundo!")
 | Pol    | 30   | Barcelona |
 
 ## Sección 8: Emoji
-Preferiria haber ido a la excursion 😃
+Preferiria haber ido a la excursion. 😃
